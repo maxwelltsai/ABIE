@@ -1,6 +1,7 @@
 # Moving Planets Around (MPA) Project
 
-## This repository has been moved to the [MovingPlanetsAround/ABIE](https://github.com/MovingPlanetsAround/ABIE) repository. The book associated with the ABIE code _Moving Planets Around_ will be published by the MIT Press around April 2020. Stay tuned!
+## This repository has been moved to the [MovingPlanetsAround/ABIE](https://github.com/MovingPlanetsAround/ABIE) repository and will no longer be updated. The book associated with the ABIE code _Moving Planets Around_ has been published by the MIT Press in September 2020. See https://mitpress.mit.edu/books/moving-planets-around.
+
 
 
 ### The Alice-Bob Integrator Environment (ABIE)
